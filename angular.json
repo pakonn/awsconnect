@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "awsconnect"
+    }
+  },
+  "defaultProject": "awsconnect",
+  "cli": {
+    "analytics": false
+  }
 }
